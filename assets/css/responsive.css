@@ -1,0 +1,321 @@
+@media all and (max-width: 1440px){
+
+
+    /* responsive for hero section */
+    .hero .hero-content{
+        padding-right: 100px;
+    }
+
+    .hero .hero-content h1{
+        font-size: 55px;
+    }
+
+    .hero .hero-shape-3{
+        left: 550px;
+    }
+    
+    .hero .hero-shape-4{
+        left: 625px;
+    }
+    
+    .hero .hero-shape-5{
+        right: 310px;
+    }
+
+    .hero .hero-img{
+        right: 245px;
+    }
+
+    /* project */
+    .project-single .project-info{
+        left: 43px;
+        top: 234px;
+    }
+
+    /* cta */
+    .cta-text {
+        width: 378px;
+    }
+}
+
+
+@media all and (max-width: 1200px){
+
+    .title{
+        font-size: 35px;
+        line-height: 37px;
+    }
+    /* responsive for header contact */
+    .header-contact a{
+        display: none!important;
+    }
+
+    /* responsive for header contact */
+
+    .hero .hero-content{
+        padding-top: 333px;
+        padding-right: 16px;;
+    }
+
+    .hero .hero-content h1{
+        font-size: 55px;
+    }
+
+    .hero .hero-shape-1, .hero .hero-shape-2 {
+        width: 200px;
+        height: 205px;
+    }
+
+    /* about */
+    .about .about-left{
+        max-width: 640px;
+        margin: 0 auto;
+    }
+
+    .about .about-right{
+        padding-top: 150px;
+    }
+
+    /* Priceing */
+
+     .left-title{
+        padding-right: 115px;
+    }
+
+    .cta_call .call-text span{
+        font-size: 15px;
+    }
+
+    .cta_call .call-text h4 {
+        font-size: 26px;
+    }
+
+    .cta-text {
+        width: 212px;
+    }
+
+    .cta-text h4{
+        font-size: 24px;
+    }
+
+
+}
+
+@media all and (max-width: 992px){
+    .socials-links{
+        display: none!important;
+    }
+
+    .main-header .navigation{
+        display: none!important;
+    }
+
+    .contact-info li a{
+        font-size: 12px;
+    }
+
+    .social-info .top-btn{
+        font-size: 13px;
+        padding: 16px 10px;
+    }
+
+    .left-title{
+        padding-right: 100px;
+    }
+
+    /* project */
+    .project-single .project-info{
+        left: 30px;
+        top: 234px;
+    }
+
+    .cta-text{
+        display: none;
+    }
+}
+
+@media all and (max-width: 768px){
+    .social-info{
+        display: none!important;
+    }
+
+    .contact-info{
+        margin-left: 20px;
+    }
+
+    .special-item{
+        margin-left: 15px;
+    }
+
+    /* about */
+
+    .about-experience{
+        max-width: 455px
+    }
+
+    .about-left .about-shape-1 {
+        right: -58px;
+    }
+
+    .about-experience .text p{
+        padding: 0px 60px 0px 13px;
+    }
+
+    .about .about-right{
+        padding-top: 150px;
+    }
+
+    .about-left .about-img-2{
+        display: none;
+    }
+
+    /* priceing */
+
+    .section-tow_title{
+        display: block!important;
+    }
+
+    .title{
+        font-size: 26px;
+        line-height: 30px;
+    }
+
+    /* project */
+    .project-single .project-info{
+        left: 115px;
+        top: 234px;
+    }
+
+
+    .cta_call{
+        border: none;
+        margin-bottom: 15px;
+    }
+    .cta-inner{
+        padding: 38px 143px;
+        display: block!important;
+    }
+
+    .cat-btn {
+        margin-left: 30px;
+    }
+
+    .service-btn{
+        margin-top: 25px;
+    }
+
+}
+
+@media all and (max-width: 480px){
+    .contact-info li a{
+        font-size: 10px;
+    }
+
+    .hero .hero-content {
+        padding: 179px 23px 81px 23px;
+    }
+
+    .hero .hero-content h1 {
+        font-size: 40px;
+        line-height: 40px;
+    }
+
+    .footer-shape-1, .footer-shape-2, .hero .hero-shape-1, .hero .hero-shape-2{
+        display: none;
+    }
+
+    .hero-btn{
+        display: block!important;
+    }
+
+    .watch-btn {
+        padding-top: 40px;
+    }
+
+    /* about */
+
+    .about {
+        padding: 80px 0 40px;
+    }
+
+    .about-experience{
+        max-width: 455px
+    }
+
+    .about-shape-1{
+        display: none;
+    }
+
+    .about-experience .text p {
+        padding: 0px 0px 0px 13px;
+    }
+
+    .about-right h2{
+        font-size: 25px;
+        line-height: 35px;
+    }
+
+    .author{
+        text-align: center;
+        display: block!important;
+    }
+
+
+    .price .prce-shape{
+        display: none;
+    }
+
+    /* project */
+    .project-single .project-info{
+        left: 85px;
+        top: 234px;
+    }
+}
+
+@media all and (max-width: 340px){
+
+    .main-header{
+        height: 70px;
+    }
+    .contact-info li a{
+        font-size: 8px;
+        line-height: 0;
+        margin-right: 8px;
+        margin-left: 0px;
+    }
+
+    .header-contact .search,.hamburger  {
+        padding: 20px 8px;
+    }
+
+    /* about */
+
+    .about-left .about-img-1 {
+        width: 443px;
+        height: 350px;
+    }
+
+    .about-experience{
+        bottom: -90px;
+    }
+
+    .about-experience .years h1 {
+        font-size: 40px;
+    }
+
+    .about-experience .years span{
+        font-size: 18px;
+    }
+
+    .about-experience{
+        display: block;
+    }
+
+    /* project */
+    .project-single .project-info{
+        left: 23px;
+        top: 234px;
+    }
+
+    
+}
